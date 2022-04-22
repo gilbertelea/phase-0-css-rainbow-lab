@@ -1,7 +1,7 @@
 # My Little Rainbow
 
 ## Learning Goals
-
+ 
 - Review HTML basics
 - Review CSS basics
 - Specify hexadecimal color values with CSS
